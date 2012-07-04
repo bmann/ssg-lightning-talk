@@ -1,0 +1,12 @@
+<meta charset="utf-8" />
+<title>{{ page.title }}</title>
+<meta name="author" content="Boris Mann" />
+<meta name="description" content="Static Site Generator Lightning Talk
+- July 4th, 2012 - HTML5 Vancouver">
+
+{% if site.theme %}
+<link href="css/themes/{{site.theme}}/{{site.theme}}.css" rel="stylesheet" />
+{% else %}
+<link href="css/themes/hekyll/hekyll.css" rel="stylesheet" />
+{% endif %}
+<link href="css/syntax.css" rel="stylesheet" />
