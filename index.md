@@ -12,4 +12,5 @@ July 4th, 2012 - Boris Mann [@bmann](http://twitter.com/bmann)
 
 [Source on GitHub »](https://github.com/bmann/ssg-lightning-talk)
 
-I edited this live once I figured out how to work my browser.
+This line intentionally available for [Prose.io](http://prose.io) editing.
+
